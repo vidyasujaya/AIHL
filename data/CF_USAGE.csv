@@ -1,0 +1,242 @@
+ORDER,PID,GROUP,AI_USAGE_WORK,AI_USAGE_STUDY,AI_USAGE_ADVICE,AI_USAGE_CONTENT,AI_USAGE_OTHERS
+2,2d5c1ed5-6c5b-f111-8fcb-0022486d65a5,CONTROL_E,Sometimes,Rarely,Sometimes,Rarely,Never
+14,c9cba06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_E,Sometimes,Sometimes,Sometimes,Rarely,Very often
+32,1ccda06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_E,Never,Sometimes,Sometimes,I don't know,I don't know
+39,3a57a062-6c5b-f111-8fcb-0022486d65a5,CONTROL_E,Often,Rarely,Rarely,Never,Never
+41,1049a068-6c5b-f111-8fcb-0022486d65a5,CONTROL_E,Often,Very often,Sometimes,Often,Sometimes
+60,f84b13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Often,Often,Often,Often,Often
+68,254d13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+72,694c13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+75,76364c0a-ff5d-f111-8fcb-0022486d65a5,CONTROL_E,Never,Sometimes,Never,Never,Sometimes
+88,bbdf4004-ff5d-f111-8fcb-0022486d65a5,CONTROL_E,Very often,Very often,Very often,Very often,Never
+89,eb860cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_E,Very often,Very often,Very often,Very often,Very often
+100,581d4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Never
+106,2c5cd6fa-c55e-f111-8fcb-0022486d65a5,CONTROL_E,Often,Very often,Very often,Often,Often
+113,995cd6fa-c55e-f111-8fcb-0022486d65a5,CONTROL_E,Rarely,Rarely,Sometimes,Sometimes,Sometimes
+120,ae860cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_E,Often,Often,Often,Often,Sometimes
+126,d31e189f-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Never
+130,2b802193-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Rarely,Rarely,Never,Sometimes
+146,461324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Rarely
+149,041324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Rarely,Sometimes,Very often,Often
+166,1d541b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,I prefer not to answer,I prefer not to answer,I prefer not to answer,I prefer not to answer,I prefer not to answer
+175,48521b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Rarely,Rarely,Sometimes,Never
+180,c75e0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Never
+189,06181e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Very often,Rarely,Rarely,Very often,I don't know
+205,1d63a7ea-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Never
+209,904962e4-4d5f-f111-8fcb-0022486d65a5,CONTROL_E,Never,Sometimes,Sometimes,Never,Sometimes
+230,ff4a13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Rarely,Rarely,Sometimes,Often,Rarely
+243,115cd6fa-c55e-f111-8fcb-0022486d65a5,CONTROL_E,Never,Rarely,Sometimes,Never,Never
+244,671e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_E,Never,Never,Never,Never,Never
+245,ba300cb7-fe5d-f111-8fcb-0022486d65a5,CONTROL_E,Very often,Often,Often,Very often,Often
+7,bdd327db-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Sometimes,Rarely,Never
+9,d9d327db-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Never,Never
+22,fa48a068-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Very often,Often,Very often,Sometimes
+35,853119cf-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Sometimes,Never,Never,Never
+36,9f5c1ed5-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Rarely,Never
+47,934c13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Often,Often,Sometimes,Often,Often
+59,f54d13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Often,Often,Sometimes,Sometimes
+64,d95d0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Rarely,Sometimes,Sometimes,I don't know
+84,8d344c0a-ff5d-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Never,Rarely,Never,Never
+91,77860cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_G,Often,Often,Often,Often,I don't know
+111,155e0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Never,Never
+125,3f33eedd-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Often,Rarely,Sometimes,Never
+131,145e0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Sometimes,Often,Rarely,Rarely
+142,0a63a7ea-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Rarely,Never,Never,Never
+145,c3511b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Rarely,Never,Very often
+152,484762e4-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Never,Never
+157,281324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Very often,Very often,Very often,Very often,Very often
+164,47870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Rarely,Often,Sometimes,Rarely
+174,fe141e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Rarely,Rarely,Rarely,Never,Never
+182,d5171e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Rarely,Never,Never,Never,Never
+185,c98d9c16-ff5d-f111-8fcb-0022486d65a5,CONTROL_G,Often,Sometimes,Often,Very often,Sometimes
+198,bac3e3d7-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Very often,Often,Very often,Sometimes
+200,7a30eedd-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Never,Never
+204,811324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Sometimes,Never,Never
+210,645c1ed5-6c5b-f111-8fcb-0022486d65a5,CONTROL_G,Very often,Very often,Very often,Very often,Sometimes
+224,c8171e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Very often,Often,Often,Very often,Very often
+226,9b812193-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Sometimes,Often,Often,Sometimes,Often
+229,204c13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_G,Never,Never,Never,Very often,Never
+237,bc4f1b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_G,Very often,Often,Very often,Very often,Often
+6,cccba06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Rarely,Rarely,Rarely,Rarely,Rarely
+11,07d427db-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+19,80d327db-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+24,b8cca06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Often,Rarely,Sometimes,Never,Never
+29,403219cf-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+45,9ad327db-6c5b-f111-8fcb-0022486d65a5,CONTROL_H,Never,Rarely,Rarely,Rarely,Rarely
+51,b25e0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_H,Very often,Very often,Very often,Often,Sometimes
+56,d98d9c16-ff5d-f111-8fcb-0022486d65a5,CONTROL_H,Never,Sometimes,Sometimes,Never,Sometimes
+61,655f0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Rarely,Sometimes,I don't know
+74,2d4d13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+81,068e9c16-ff5d-f111-8fcb-0022486d65a5,CONTROL_H,Rarely,Rarely,Sometimes,Rarely,Rarely
+92,c0354c0a-ff5d-f111-8fcb-0022486d65a5,CONTROL_H,Often,Sometimes,Sometimes,Sometimes,Sometimes
+94,e432f7bb-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Rarely,Very often,Very often,Very often,Very often
+102,794b13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_H,Very often,Often,Very often,Very often,Often
+108,550ac9f4-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Sometimes,Very often,Very often,Often,Sometimes
+116,155dd6fa-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+123,de5d0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_H,Often,Very often,Often,Very often,Often
+136,024962e4-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+138,0d171e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,I prefer not to answer,I don't know,Very often,Often,Sometimes
+140,73521b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Rarely,Sometimes,Sometimes,Sometimes,Sometimes
+143,511e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_H,Sometimes,Never,Often,Never,Sometimes
+150,601324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+155,894962e4-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Sometimes,Sometimes,Sometimes
+165,b61f189f-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Never,Often,Often,Rarely,Very often
+167,0e870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Sometimes,Sometimes,Sometimes,Often,Sometimes
+172,6f63a7ea-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+178,c61e189f-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Very often,Never,Very often,Often,Very often
+184,41870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Never,Never,Never,Never,Never
+211,ee32eedd-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Often,Rarely,Often,Very often,Sometimes
+215,5f870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_H,Never,I don't know,Rarely,Never,I don't know
+223,da161e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_H,Very often,Very often,Sometimes,Rarely,Sometimes
+228,a11e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_H,Sometimes,Sometimes,Rarely,Often,I don't know
+5,2b57a062-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Sometimes,Sometimes,Rarely,Rarely,Rarely
+12,19cda06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Rarely,Rarely,Never,Never
+18,22cda06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+21,e0cba06e-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Sometimes,Often,Rarely,Very often
+30,cd3319cf-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Often,Often,Very often,Often,I don't know
+37,484ba068-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Rarely,Sometimes,Never,Never,Never
+54,c54d13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_T,Sometimes,Sometimes,Sometimes,Rarely,Rarely
+55,c41e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Rarely,Never
+70,71d327db-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Often,Often,Never,Never
+78,6c1e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_T,Often,Rarely,Sometimes,Often,Never
+80,a34c13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Very often
+101,0a5cd6fa-c55e-f111-8fcb-0022486d65a5,CONTROL_T,Sometimes,Sometimes,Sometimes,Sometimes,Rarely
+107,cc4c13bd-fe5d-f111-8fcb-0022486d65a5,CONTROL_T,Very often,Often,Sometimes,Sometimes,Sometimes
+122,3a5f0bc3-fe5d-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+124,5c1f189f-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Sometimes,Rarely,Sometimes,Rarely,Rarely
+132,43870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_T,Rarely,Rarely,Never,Never,Never
+135,241324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+159,c1141e99-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Often,Often,Often,Often,Often
+162,671324a5-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+181,1c541b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Rarely,Sometimes,Sometimes,Sometimes,Sometimes
+191,c71e4d10-ff5d-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+194,55870cc2-c55e-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+196,80c1e3d7-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Very often,Sometimes,Often,Very often,Sometimes
+201,7d63a7ea-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Never,Sometimes,Rarely,Sometimes,Sometimes
+208,8d5b1ed5-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Rarely,Never,Never
+216,c9802193-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Rarely,Rarely,Never,Sometimes,Never
+221,f71f189f-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Never,Never,Never
+234,a132f7bb-c55e-f111-8fcb-0022486d65a5,CONTROL_T,Never,Never,Sometimes,Never,Never
+236,324ba068-6c5b-f111-8fcb-0022486d65a5,CONTROL_T,Never,Sometimes,Never,Rarely,Often
+242,874f1b8d-4d5f-f111-8fcb-0022486d65a5,CONTROL_T,Often,Often,Often,Often,Often
+4,d8cca06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+8,a1cca06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+23,b65a1ed5-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Rarely,Rarely,Never
+25,e24ba068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Sometimes,Often,Sometimes,Often,Often
+31,f83019cf-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Often,Often,Sometimes,Often,Never
+33,e4cca06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Sometimes,Never,Never
+52,18d427db-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+57,48364c0a-ff5d-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Rarely,Never,Sometimes
+67,8dde4004-ff5d-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Never,Never,Never,Never
+71,465f0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+82,ec5b1ed5-6c5b-f111-8fcb-0022486d65a5,TREATMENT_E,Rarely,Never,Never,Never,Rarely
+87,dd5d0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Often,Very often,Very often,Often
+93,fc860cc2-c55e-f111-8fcb-0022486d65a5,TREATMENT_E,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+99,6a32f7bb-c55e-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Rarely,Rarely,Never
+105,4e0bc9f4-c55e-f111-8fcb-0022486d65a5,TREATMENT_E,Often,Sometimes,Often,Often,Often
+114,ae30f7bb-c55e-f111-8fcb-0022486d65a5,TREATMENT_E,Sometimes,Often,Sometimes,Often,Very often
+121,d6822193-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Sometimes,Sometimes,Sometimes,I don't know
+133,3f63a7ea-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Sometimes,Sometimes,Never,Sometimes,Never
+141,261324a5-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+148,2a822193-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Very often,Very often,Very often,Very often
+161,3533eedd-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Often,Rarely,Sometimes,Sometimes,Never
+176,87c2e3d7-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Very often,Very often,Very often,Often
+190,02151e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Often,Sometimes,Sometimes,Sometimes,Sometimes
+192,fa171e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Very often,Very often,Very often,Very often
+199,64c1e3d7-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Often,Rarely,Never,Rarely,Never
+217,e3141e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Never,Never,Never
+222,8e364c0a-ff5d-f111-8fcb-0022486d65a5,TREATMENT_E,Very often,Often,Sometimes,Sometimes,Rarely
+232,371e189f-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Sometimes,Sometimes,Sometimes,Sometimes,Rarely
+235,2733eedd-4d5f-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Never,Sometimes,Never,Never
+238,d109c9f4-c55e-f111-8fcb-0022486d65a5,TREATMENT_E,Never,Rarely,Sometimes,Never,Never
+1,574aa068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Never,Never,Never
+10,85cca06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+16,a44aa068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Often,Sometimes,Sometimes,Often,Often
+34,523319cf-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Often,Very often,Very often,Often
+40,00cda06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Rarely,Never,Never
+42,375c1ed5-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Never,Never,Rarely
+48,0a4d13bd-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Sometimes,Often,Sometimes,Often
+53,bb4c13bd-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Never,Often,Rarely,Rarely
+66,84344c0a-ff5d-f111-8fcb-0022486d65a5,TREATMENT_H,Very often,Sometimes,Very often,Very often,I don't know
+76,288e9c16-ff5d-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Never,Never,Never
+77,484d13bd-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Rarely,Sometimes,Rarely
+85,37de4004-ff5d-f111-8fcb-0022486d65a5,TREATMENT_H,Rarely,Rarely,Often,Sometimes,I don't know
+96,b632f7bb-c55e-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Very often,Sometimes,Sometimes,Sometimes
+98,d1860cc2-c55e-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Sometimes,Rarely,Rarely,Sometimes
+112,62860cc2-c55e-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Never,Never,Never
+118,ec5e0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Rarely,Sometimes,Sometimes,Never
+139,37531b8d-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Often,Often,Often,Often,Often
+154,0b802193-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Very often,Never,Sometimes,Never,Sometimes
+156,551e189f-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Very often,Very often,Often,Very often,Often
+160,180bc9f4-c55e-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Rarely,Sometimes,Often,Sometimes
+169,011324a5-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Rarely,Rarely,Rarely,Sometimes
+171,26181e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Often,Often,Sometimes,Sometimes,Sometimes
+177,1e531b8d-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Rarely,Rarely,Rarely,Rarely,Rarely
+179,71161e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Rarely,Rarely,Rarely,Rarely
+187,5e161e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Rarely,Sometimes,Often,Sometimes,I don't know
+193,f27f2193-4d5f-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Rarely,Rarely,Never,I don't know
+214,875cd6fa-c55e-f111-8fcb-0022486d65a5,TREATMENT_H,Often,Sometimes,Sometimes,Often,I don't know
+218,d85e0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Often,Sometimes,Often,Sometimes,Sometimes
+220,7d5f0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Sometimes,Sometimes,Never,Never
+225,5fde4004-ff5d-f111-8fcb-0022486d65a5,TREATMENT_H,Never,Never,Never,Never,Never
+227,7fd327db-6c5b-f111-8fcb-0022486d65a5,TREATMENT_H,Sometimes,Rarely,Sometimes,Never,Never
+3,cf5a1ed5-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Very often,Very often,Very often,Sometimes,Sometimes
+13,d95b1ed5-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+15,164ca068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Very often,Very often,Often,Rarely,Sometimes
+17,aa4aa068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Never,Never,Never,Never
+38,5e49a068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Sometimes,Sometimes,Rarely
+44,c2d327db-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Often,Very often,Sometimes
+50,8d5f0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Rarely,Rarely,Rarely,I don't know
+58,ce320cb7-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Often,Often,Often,Sometimes
+62,5a4b13bd-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Often,Often,Often,Sometimes
+73,425f0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Often,Often,Never,Often
+79,d55e0bc3-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Sometimes,Rarely,Sometimes,Rarely,Rarely
+86,2a1e4d10-ff5d-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Sometimes,Never,I don't know
+90,9a31f7bb-c55e-f111-8fcb-0022486d65a5,TREATMENT_T,Very often,Often,Very often,Often,Very often
+97,e33219cf-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Rarely,Rarely,Rarely,Never
+110,26870cc2-c55e-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Sometimes,Never,Never
+117,4f320cb7-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Often,Sometimes,Sometimes,Sometimes,Rarely
+128,871e4d10-ff5d-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Never,Never,Never,Never
+147,21cca06e-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Often,Often,Very often,Sometimes,Often
+151,d38d9c16-ff5d-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Rarely,Sometimes,Never,Never
+186,28171e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Very often,Very often,Very often,Often,Sometimes
+195,d97f2193-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Sometimes,Never,Never,Never,Never
+197,334aa068-6c5b-f111-8fcb-0022486d65a5,TREATMENT_T,Sometimes,Very often,Very often,Very often,Very often
+202,18161e99-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Rarely,Very often,I don't know
+203,f12feedd-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Sometimes,Often,Sometimes,Often,I don't know
+206,0e320cb7-fe5d-f111-8fcb-0022486d65a5,TREATMENT_T,Often,Often,Sometimes,Sometimes,Sometimes
+212,1a4762e4-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Rarely,Rarely,Never,Never
+219,000ac9f4-c55e-f111-8fcb-0022486d65a5,TREATMENT_T,Rarely,Sometimes,Often,Never,Never
+239,3f5cd6fa-c55e-f111-8fcb-0022486d65a5,TREATMENT_T,Often,Often,Very often,Sometimes,Very often
+240,6b1324a5-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Never,Never,Rarely,Never,Never
+241,491e189f-4d5f-f111-8fcb-0022486d65a5,TREATMENT_T,Often,Sometimes,Often,Never,Rarely
+20,383219cf-6c5b-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+26,84d327db-6c5b-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+27,084ca068-6c5b-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+28,e5cca06e-6c5b-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Sometimes,Never,Never
+43,03cda06e-6c5b-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+46,b23119cf-6c5b-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Often,Sometimes,Rarely,Sometimes
+49,e58d9c16-ff5d-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+63,b4310cb7-fe5d-f111-8fcb-0022486d65a5,VIDEO,Rarely,Rarely,Sometimes,Often,Often
+65,ed5b1ed5-6c5b-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Sometimes,Rarely,Sometimes,I don't know
+69,784a13bd-fe5d-f111-8fcb-0022486d65a5,VIDEO,Often,Sometimes,Often,Sometimes,Often
+83,693319cf-6c5b-f111-8fcb-0022486d65a5,VIDEO,Rarely,Rarely,Never,Never,Never
+103,5c870cc2-c55e-f111-8fcb-0022486d65a5,VIDEO,Never,Rarely,Never,Never,I don't know
+109,53870cc2-c55e-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+115,945e0bc3-fe5d-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Sometimes,Often,Rarely,I prefer not to answer
+119,fc1d4d10-ff5d-f111-8fcb-0022486d65a5,VIDEO,Never,Often,Often,Rarely,Never
+127,32364c0a-ff5d-f111-8fcb-0022486d65a5,VIDEO,Rarely,Never,Rarely,Never,Never
+129,b1521b8d-4d5f-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+134,044762e4-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Sometimes,Sometimes,Often,Sometimes
+137,361e189f-4d5f-f111-8fcb-0022486d65a5,VIDEO,Very often,Often,Often,Often,I don't know
+144,271f189f-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Rarely,Rarely,Rarely,I don't know
+153,144862e4-4d5f-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+158,1f181e99-4d5f-f111-8fcb-0022486d65a5,VIDEO,Rarely,Often,Often,Often,I don't know
+163,bf4862e4-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Never,Sometimes,Never,Never
+168,7e1f189f-4d5f-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+170,3863a7ea-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Sometimes,Sometimes,Rarely,Never
+173,601f189f-4d5f-f111-8fcb-0022486d65a5,VIDEO,Never,Never,Never,Never,Never
+183,6e171e99-4d5f-f111-8fcb-0022486d65a5,VIDEO,Often,Often,Often,Often,Often
+188,7bcca06e-6c5b-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Often,Very often,Sometimes,Very often
+213,3f161e99-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Rarely,Sometimes,Sometimes,Never
+231,1d1e189f-4d5f-f111-8fcb-0022486d65a5,VIDEO,Sometimes,Often,Sometimes,Rarely,I don't know
