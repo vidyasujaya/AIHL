@@ -1,5 +1,5 @@
 # AIHL
-Artefacts accompanying 'A Serious Game for Adult AI Harms Literacy'
+Artefacts accompanying 'A Narrative-Driven Game for Adult AI Harms Literacy'
 
 - Pilot Data: Respondent data from the early 2026 pilot are in the data folder.
     - Unique responses are identified by unique strings in the column 'PID' across all csv files.
