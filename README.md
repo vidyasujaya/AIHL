@@ -15,5 +15,5 @@ Artefacts accompanying 'A Narrative-Driven Game for Adult AI Harms Literacy'
 - Treatment Medias
     - Game prototype:
         - The web-deployed prototype (playable online) is available via <https://viddev.itch.io/crossroads-a> with the password 'Testing42'.
-        - The game can also be downloaded via the the releases of this repository (not available during initial submission), or from the following [Google Drive](https://drive.google.com/drive/folders/1wo5ztQHLQSqSSinungieeLLAwEtVqQxy?usp=sharing)
+        - The game can also be downloaded via the the releases of this repository, or from the following [Google Drive](https://drive.google.com/drive/folders/1wo5ztQHLQSqSSinungieeLLAwEtVqQxy?usp=sharing)
     - Controls: Control media (infographics and video) are in the controls folder.
